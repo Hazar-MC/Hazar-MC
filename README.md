@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&pause=1200&color=FF6F00&background=1A0022&center=true&vCenter=true&width=550&lines=Crafting+mods+in+the+dead+of+night...;Kotlin+%2B+Java+%2B+Gradle+%F0%9F%95%B8%EF%B8%8F;Summoned+by+MongoDB;Beware+the+NullPointerException" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&pause=1200&color=FF6F00&background=1A0022&center=true&vCenter=true&width=550&lines=Crafting+mods+in+the+dead+of+night...;Kotlin+%2B+Java+%2B+Gradle+%F0%9F%95%B8%EF%B8%8F;Summoned+by+MongoDB;Beware+the+NullPointerException" alt="Typing SVG" width="100%"/>
 </p>
 
 <p align="center">🦇 ・ 💀 ・ 🎃 ・ 🕸️ ・ 🌙 ・ 🕯️ ・ 🩸 ・ 🕷️</p>
@@ -47,6 +47,29 @@ I'm **Hazar-MC** — a Minecraft mod developer haunting the codebase with Kotlin
 
 ---
 
+### 🗺️ Current Projects
+
+<table align="center">
+<tr>
+<td align="center">
+  <a href="https://github.com/Hazar-MC/ashen-grimoire">
+    <img src="https://img.shields.io/badge/🪦_Ashen_Grimoire-1a0022?style=for-the-badge" alt="Ashen Grimoire"/><br/>
+    <img src="https://img.shields.io/badge/Kitchen--sink_Fabric_mod-3a0ca3?style=flat-square" alt="Kitchen-sink Fabric mod"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Hazar-MC/card-siege">
+    <img src="https://img.shields.io/badge/🪦_Card_Siege-1a0022?style=for-the-badge" alt="Card Siege"/><br/>
+    <img src="https://img.shields.io/badge/Tactical_card--battle_mod-3a0ca3?style=flat-square" alt="Tactical card-battle mod"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
 ### ⚰️ Currently Haunting
 
 <p align="left">
@@ -63,7 +86,7 @@ I'm **Hazar-MC** — a Minecraft mod developer haunting the codebase with Kotlin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazar-MC&theme=midnight-purple&hide_border=true&background=1A0022&ring=FF6F00&fire=FF6F00&currStreakLabel=E8D5FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Hazar-MC&theme=midnight-purple&hide_border=true&background=1A0022&ring=FF6F00&fire=FF6F00&currStreakLabel=E8D5FF" alt="GitHub Streak"/>
 </p>
 
 <br>
